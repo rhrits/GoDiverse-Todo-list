@@ -22,8 +22,8 @@ Users can create tasks, assign them to other registered users, set due dates, fi
 ### 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/nextjs-todo-list.git
-cd nextjs-todo-list
+https://github.com/rhrits/GoDiverse-Todo-list.git
+cd GoDiverse-Todo-list
 ```
 
 ---
